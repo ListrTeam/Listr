@@ -17,13 +17,6 @@ node.js: v10.14.2
 
 npm: 6.4.1
 
-## Project tidbits
-angular-core is the root folder name of our angular WORKSPACE
+## Team Board for Tasking
+https://trello.com/b/ymEqoSHL/listr
 
-The shell of the initial web page is an Angular COMPONENT named AppComponent
-Components are the fundamental building blocks of Angular applications
-
-You'll find the implementation of the shell AppComponent distributed over three files:
-app.component.ts— the component class code, written in TypeScript.
-app.component.html— the component template, written in HTML.
-app.component.css— the component's private CSS styles.
